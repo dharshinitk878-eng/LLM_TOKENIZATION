@@ -1,0 +1,9 @@
+clean_text
+Artificial intelligence helps computers understand human language.
+Large language models process text using tokens and numerical IDs.
+Python is useful for natural language processing and machine learning.
+BERT uses WordPiece tokenization to divide text into smaller units.
+GPT-2 uses byte pair encoding to represent text as tokens.
+Tokenization converts text into smaller pieces before model processing.
+Hugging Face provides pretrained tokenizers for language models.
+Different tokenizers may split the same sentence differently.
